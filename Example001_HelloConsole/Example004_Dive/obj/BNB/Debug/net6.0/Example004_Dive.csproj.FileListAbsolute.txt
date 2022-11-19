@@ -1,0 +1,15 @@
+C:\Users\1\Examples#\Example001_HelloConsole\Example004_Dive\bin\BNB\Debug\net6.0\Example004_Dive.exe
+C:\Users\1\Examples#\Example001_HelloConsole\Example004_Dive\bin\BNB\Debug\net6.0\Example004_Dive.deps.json
+C:\Users\1\Examples#\Example001_HelloConsole\Example004_Dive\bin\BNB\Debug\net6.0\Example004_Dive.runtimeconfig.json
+C:\Users\1\Examples#\Example001_HelloConsole\Example004_Dive\bin\BNB\Debug\net6.0\Example004_Dive.dll
+C:\Users\1\Examples#\Example001_HelloConsole\Example004_Dive\bin\BNB\Debug\net6.0\Example004_Dive.pdb
+C:\Users\1\Examples#\Example001_HelloConsole\Example004_Dive\obj\BNB\Debug\net6.0\Example004_Dive.csproj.AssemblyReference.cache
+C:\Users\1\Examples#\Example001_HelloConsole\Example004_Dive\obj\BNB\Debug\net6.0\Example004_Dive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Examples#\Example001_HelloConsole\Example004_Dive\obj\BNB\Debug\net6.0\Example004_Dive.AssemblyInfoInputs.cache
+C:\Users\1\Examples#\Example001_HelloConsole\Example004_Dive\obj\BNB\Debug\net6.0\Example004_Dive.AssemblyInfo.cs
+C:\Users\1\Examples#\Example001_HelloConsole\Example004_Dive\obj\BNB\Debug\net6.0\Example004_Dive.csproj.CoreCompileInputs.cache
+C:\Users\1\Examples#\Example001_HelloConsole\Example004_Dive\obj\BNB\Debug\net6.0\Example004_Dive.dll
+C:\Users\1\Examples#\Example001_HelloConsole\Example004_Dive\obj\BNB\Debug\net6.0\refint\Example004_Dive.dll
+C:\Users\1\Examples#\Example001_HelloConsole\Example004_Dive\obj\BNB\Debug\net6.0\Example004_Dive.pdb
+C:\Users\1\Examples#\Example001_HelloConsole\Example004_Dive\obj\BNB\Debug\net6.0\Example004_Dive.genruntimeconfig.cache
+C:\Users\1\Examples#\Example001_HelloConsole\Example004_Dive\obj\BNB\Debug\net6.0\ref\Example004_Dive.dll
